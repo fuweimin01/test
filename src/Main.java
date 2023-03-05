@@ -2,10 +2,7 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello hot-fix2222");
-        System.out.println("hello hot-fix2222");
-        System.out.println("hello hot-fix");
-        System.out.println("hello hot-fix");
+
         FileInputStream fis = null;
         FileOutputStream fos = null;
         try {
